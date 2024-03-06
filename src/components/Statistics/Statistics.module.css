@@ -1,0 +1,11 @@
+.div {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 8px 0;
+    background-color: #f9f9f9;
+}
+
+.span {
+    display: block;
+    margin-bottom: 8px;
+}
